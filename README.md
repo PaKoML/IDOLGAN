@@ -33,8 +33,11 @@ The discriminator is consists of convolutional layers, each followed by batch no
 The model is trained on about 5000 images of kpop idol's face image. The figures in the images is not evenly distributed, so the output result may be similar to some specific celebrity. 
 
 ## References
+
 [1] Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434.
+
 [2] Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). Improved techniques for training gans. Advances in neural information processing systems, 29.
+
 [3] Minibatch discrimination module in PyTorch. (n.d.). Gist. https://gist.github.com/t-ae/732f78671643de97bbe2c46519972491
 
 
