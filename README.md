@@ -44,7 +44,7 @@ The model is trained on about 5000 images of kpop idol's face image. The figures
 ## Developers
 * [Minjun Kim](https://github.com/kmj0825) 
 * [Hanbin Park](https://github.com/kimchyoungman)
-* [Jihwan Hong](https://github.com/Jordano-Jackson)
+* [Jihwan Hong](https://github.com/Jordano-Jackson) 
 
 
 
